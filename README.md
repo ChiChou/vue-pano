@@ -1,5 +1,7 @@
 # vue-pano
 
+**Looking for maintainers**
+
 [![npm version][npm-image]][npm-url]
 
 [中文文档](README.cn.md)
